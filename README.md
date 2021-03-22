@@ -9,3 +9,5 @@
 ### To run
 - install dependencies
 - python3 weather.py
+
+![image](https://user-images.githubusercontent.com/20908353/112010228-6afec900-8b27-11eb-8ba1-402db8069d23.png)
